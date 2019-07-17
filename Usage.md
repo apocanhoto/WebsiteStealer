@@ -13,6 +13,7 @@ usage: webscreenshot [-h] [-i INPUT_FILE] [-o OUTPUT_DIRECTORY] [-w WORKERS]
 # Renderer
 
 phantomjs is the best renderer for this python script.
+
 -r phantomjs
 
 # Cookies
