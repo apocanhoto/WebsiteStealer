@@ -37,8 +37,4 @@ phantomjs --version
 
 
 
-USAGE:
-
-webscreenshot [URL] -r phantomjs
-
 
